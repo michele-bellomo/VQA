@@ -1,7 +1,9 @@
 # Kaggle Competition: Visual Question Answering (VQA)
 
 The challenge consisted in designing an algorithm to answer questions regarding the input figures, as in the following:
+
 <img src="images/VQA_.png?raw=true" alt="drawing" width="900"/>
+
 This problem is known as Visual Question Answering (VQA) and it is a task that combines Computer Vision with Natural Language Processing. 
 More details about the competition are available at <a>https://www.kaggle.com/competitions/anndl-2020-vqa</a>.
 
