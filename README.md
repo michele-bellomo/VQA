@@ -12,4 +12,4 @@ I tackled the problem by designing a neural network made up of two functional un
 Concerning the CNN part, I tested both neural networks implemented from scratch and architectures already trained on Imagenet, finally calibrated through fine tuning.
 Regarding word embedding, I compared the performance of a costum embedding with the pre-trained embedding "GloVE". Finally, for the LSTMs, I implemented and compared both a bidirectional and a hierarchical structure.
 
-The notebook "" contains the implementation of the network that presented the best results on validation and test sets, consisting of a VGG architecture, LSTM's with hierarchical structure and GloVe word embedding. 
+"VQA_InceptionResNet_bidirectionalLSTMs_GloVe.ipynb" notebook contains the implementation of the network that presented the best results on validation and test sets, consisting of a InceptionResNet architecture, LSTM blocks with bidirectional structure and GloVe word embedding. 
